@@ -101,4 +101,5 @@ endmodule
 ![330602293-564c2c83-af3f-4b2b-80d7-ea046405e10f](https://github.com/user-attachments/assets/a82765ed-7d0d-4805-8f17-55aa7225681b)
 
 **RESULTS**
+
 Thus the 4 Bit Ripple Counter using verilog is implemented and their functionality using their functional tables is validated.
